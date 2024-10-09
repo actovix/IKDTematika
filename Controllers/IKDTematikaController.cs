@@ -15,6 +15,6 @@ public class IKDTematikaController : ControllerBase
     [HttpPost("details")]
     public async Task<ResponceModel> GetThemes([FromBody] RequestModel requestModel)
     {
-        
+        return null;
     }
 }
