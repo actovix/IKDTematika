@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Redmi\\source\\repos\\IKD\\IKDTematika\\IKDTematika.csproj": {}
+    "C:\\Users\\varva\\source\\repos\\ikd\\IKDTematika\\IKDTematika.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Redmi\\source\\repos\\IKD\\IKDTematika\\IKDTematika.csproj": {
+    "C:\\Users\\varva\\source\\repos\\ikd\\IKDTematika\\IKDTematika.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Redmi\\source\\repos\\IKD\\IKDTematika\\IKDTematika.csproj",
+        "projectUniqueName": "C:\\Users\\varva\\source\\repos\\ikd\\IKDTematika\\IKDTematika.csproj",
         "projectName": "IKDTematika",
-        "projectPath": "C:\\Users\\Redmi\\source\\repos\\IKD\\IKDTematika\\IKDTematika.csproj",
-        "packagesPath": "C:\\Users\\Redmi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Redmi\\source\\repos\\IKD\\IKDTematika\\obj\\",
+        "projectPath": "C:\\Users\\varva\\source\\repos\\ikd\\IKDTematika\\IKDTematika.csproj",
+        "packagesPath": "C:\\Users\\varva\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\varva\\source\\repos\\ikd\\IKDTematika\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Redmi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\varva\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -45,6 +50,10 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "IronPdf": {
+              "target": "Package",
+              "version": "[2024.10.8, )"
+            },
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
               "version": "[8.0.0, )"
@@ -73,7 +82,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
