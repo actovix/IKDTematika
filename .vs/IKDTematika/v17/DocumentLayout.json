@@ -11,24 +11,39 @@
       "RelativeMoniker": "D:0:0:{9981428A-B9F8-4B3A-BC04-7ED093F23B48}|IKDTematika.csproj|solutionrelative:services\\parsers\\iparseraccumulator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9981428A-B9F8-4B3A-BC04-7ED093F23B48}|IKDTematika.csproj|c:\\users\\varva\\source\\repos\\ikd\\ikdtematika\\services\\parsers\\pdfparsers\\ipdfparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9981428A-B9F8-4B3A-BC04-7ED093F23B48}|IKDTematika.csproj|solutionrelative:services\\parsers\\pdfparsers\\ipdfparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9981428A-B9F8-4B3A-BC04-7ED093F23B48}|IKDTematika.csproj|c:\\users\\varva\\source\\repos\\ikd\\ikdtematika\\services\\isubjectextractor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9981428A-B9F8-4B3A-BC04-7ED093F23B48}|IKDTematika.csproj|solutionrelative:services\\isubjectextractor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9981428A-B9F8-4B3A-BC04-7ED093F23B48}|IKDTematika.csproj|c:\\users\\varva\\source\\repos\\ikd\\ikdtematika\\helpers\\iattachmentdownloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9981428A-B9F8-4B3A-BC04-7ED093F23B48}|IKDTematika.csproj|solutionrelative:helpers\\iattachmentdownloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9981428A-B9F8-4B3A-BC04-7ED093F23B48}|IKDTematika.csproj|c:\\users\\varva\\source\\repos\\ikd\\ikdtematika\\helpers\\attachmentdownloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9981428A-B9F8-4B3A-BC04-7ED093F23B48}|IKDTematika.csproj|solutionrelative:helpers\\attachmentdownloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9981428A-B9F8-4B3A-BC04-7ED093F23B48}|IKDTematika.csproj|c:\\users\\varva\\source\\repos\\ikd\\ikdtematika\\services\\subjectextractor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9981428A-B9F8-4B3A-BC04-7ED093F23B48}|IKDTematika.csproj|solutionrelative:services\\subjectextractor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9981428A-B9F8-4B3A-BC04-7ED093F23B48}|IKDTematika.csproj|c:\\users\\varva\\source\\repos\\ikd\\ikdtematika\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9981428A-B9F8-4B3A-BC04-7ED093F23B48}|IKDTematika.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9981428A-B9F8-4B3A-BC04-7ED093F23B48}|IKDTematika.csproj|c:\\users\\varva\\source\\repos\\ikd\\ikdtematika\\services\\subjectextractor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9981428A-B9F8-4B3A-BC04-7ED093F23B48}|IKDTematika.csproj|solutionrelative:services\\subjectextractor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9981428A-B9F8-4B3A-BC04-7ED093F23B48}|IKDTematika.csproj|c:\\users\\varva\\source\\repos\\ikd\\ikdtematika\\helpers\\attachmentdownloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9981428A-B9F8-4B3A-BC04-7ED093F23B48}|IKDTematika.csproj|solutionrelative:helpers\\attachmentdownloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9981428A-B9F8-4B3A-BC04-7ED093F23B48}|IKDTematika.csproj|c:\\users\\varva\\source\\repos\\ikd\\ikdtematika\\helpers\\iattachmentdownloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9981428A-B9F8-4B3A-BC04-7ED093F23B48}|IKDTematika.csproj|solutionrelative:helpers\\iattachmentdownloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9981428A-B9F8-4B3A-BC04-7ED093F23B48}|IKDTematika.csproj|c:\\users\\varva\\source\\repos\\ikd\\ikdtematika\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{9981428A-B9F8-4B3A-BC04-7ED093F23B48}|IKDTematika.csproj|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\varva\\.nuget\\packages\\ironpdf\\2024.10.8\\README.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9981428A-B9F8-4B3A-BC04-7ED093F23B48}|IKDTematika.csproj|c:\\users\\varva\\source\\repos\\ikd\\ikdtematika\\ikdtematika.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9981428A-B9F8-4B3A-BC04-7ED093F23B48}|IKDTematika.csproj|solutionrelative:ikdtematika.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9981428A-B9F8-4B3A-BC04-7ED093F23B48}|IKDTematika.csproj|c:\\users\\varva\\source\\repos\\ikd\\ikdtematika\\services\\parsers\\pdfparsers\\ipdfparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9981428A-B9F8-4B3A-BC04-7ED093F23B48}|IKDTematika.csproj|solutionrelative:services\\parsers\\pdfparsers\\ipdfparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9981428A-B9F8-4B3A-BC04-7ED093F23B48}|IKDTematika.csproj|c:\\users\\varva\\source\\repos\\ikd\\ikdtematika\\services\\parsers\\pdfparsers\\rpdparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -37,10 +52,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{9981428A-B9F8-4B3A-BC04-7ED093F23B48}|IKDTematika.csproj|c:\\users\\varva\\source\\repos\\ikd\\ikdtematika\\services\\parsers\\pdfparsers\\anotationparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9981428A-B9F8-4B3A-BC04-7ED093F23B48}|IKDTematika.csproj|solutionrelative:services\\parsers\\pdfparsers\\anotationparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9981428A-B9F8-4B3A-BC04-7ED093F23B48}|IKDTematika.csproj|c:\\users\\varva\\source\\repos\\ikd\\ikdtematika\\services\\isubjectextractor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9981428A-B9F8-4B3A-BC04-7ED093F23B48}|IKDTematika.csproj|solutionrelative:services\\isubjectextractor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9981428A-B9F8-4B3A-BC04-7ED093F23B48}|IKDTematika.csproj|c:\\users\\varva\\source\\repos\\ikd\\ikdtematika\\services\\analyser\\itextanalyser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -67,10 +78,6 @@
       "RelativeMoniker": "D:0:0:{9981428A-B9F8-4B3A-BC04-7ED093F23B48}|IKDTematika.csproj|solutionrelative:models\\attachment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9981428A-B9F8-4B3A-BC04-7ED093F23B48}|IKDTematika.csproj|c:\\users\\varva\\source\\repos\\ikd\\ikdtematika\\ikdtematika.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{9981428A-B9F8-4B3A-BC04-7ED093F23B48}|IKDTematika.csproj|solutionrelative:ikdtematika.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9981428A-B9F8-4B3A-BC04-7ED093F23B48}|IKDTematika.csproj|c:\\users\\varva\\source\\repos\\ikd\\ikdtematika\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{9981428A-B9F8-4B3A-BC04-7ED093F23B48}|IKDTematika.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
@@ -93,7 +100,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -105,28 +112,54 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IPDFParser.cs",
-              "DocumentMoniker": "C:\\Users\\varva\\source\\repos\\ikd\\IKDTematika\\Services\\Parsers\\PDFParsers\\IPDFParser.cs",
-              "RelativeDocumentMoniker": "Services\\Parsers\\PDFParsers\\IPDFParser.cs",
-              "ToolTip": "C:\\Users\\varva\\source\\repos\\ikd\\IKDTematika\\Services\\Parsers\\PDFParsers\\IPDFParser.cs",
-              "RelativeToolTip": "Services\\Parsers\\PDFParsers\\IPDFParser.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\varva\\source\\repos\\ikd\\IKDTematika\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\varva\\source\\repos\\ikd\\IKDTematika\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T17:56:54.482Z",
+              "WhenOpened": "2024-10-09T16:40:08.302Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "RPDParser.cs",
-              "DocumentMoniker": "C:\\Users\\varva\\source\\repos\\ikd\\IKDTematika\\Services\\Parsers\\PDFParsers\\RPDParser.cs",
-              "RelativeDocumentMoniker": "Services\\Parsers\\PDFParsers\\RPDParser.cs",
-              "ToolTip": "C:\\Users\\varva\\source\\repos\\ikd\\IKDTematika\\Services\\Parsers\\PDFParsers\\RPDParser.cs",
-              "RelativeToolTip": "Services\\Parsers\\PDFParsers\\RPDParser.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "AttachmentDownloader.cs",
+              "DocumentMoniker": "C:\\Users\\varva\\source\\repos\\ikd\\IKDTematika\\Helpers\\AttachmentDownloader.cs",
+              "RelativeDocumentMoniker": "Helpers\\AttachmentDownloader.cs",
+              "ToolTip": "C:\\Users\\varva\\source\\repos\\ikd\\IKDTematika\\Helpers\\AttachmentDownloader.cs",
+              "RelativeToolTip": "Helpers\\AttachmentDownloader.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwBkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T17:58:02.317Z",
+              "WhenOpened": "2024-10-11T17:26:00.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SubjectExtractor.cs",
+              "DocumentMoniker": "C:\\Users\\varva\\source\\repos\\ikd\\IKDTematika\\Services\\SubjectExtractor.cs",
+              "RelativeDocumentMoniker": "Services\\SubjectExtractor.cs",
+              "ToolTip": "C:\\Users\\varva\\source\\repos\\ikd\\IKDTematika\\Services\\SubjectExtractor.cs",
+              "RelativeToolTip": "Services\\SubjectExtractor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T18:41:46.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ISubjectExtractor.cs",
+              "DocumentMoniker": "C:\\Users\\varva\\source\\repos\\ikd\\IKDTematika\\Services\\ISubjectExtractor.cs",
+              "RelativeDocumentMoniker": "Services\\ISubjectExtractor.cs",
+              "ToolTip": "C:\\Users\\varva\\source\\repos\\ikd\\IKDTematika\\Services\\ISubjectExtractor.cs",
+              "RelativeToolTip": "Services\\ISubjectExtractor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T18:42:51.917Z",
               "EditorCaption": ""
             },
             {
@@ -148,42 +181,16 @@
               "Title": "ParserAccumulator.cs",
               "DocumentMoniker": "C:\\Users\\varva\\source\\repos\\ikd\\IKDTematika\\Services\\Parsers\\ParserAccumulator.cs",
               "RelativeDocumentMoniker": "Services\\Parsers\\ParserAccumulator.cs",
-              "ToolTip": "C:\\Users\\varva\\source\\repos\\ikd\\IKDTematika\\Services\\Parsers\\ParserAccumulator.cs*",
-              "RelativeToolTip": "Services\\Parsers\\ParserAccumulator.cs*",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\varva\\source\\repos\\ikd\\IKDTematika\\Services\\Parsers\\ParserAccumulator.cs",
+              "RelativeToolTip": "Services\\Parsers\\ParserAccumulator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-11T18:25:15.226Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\varva\\source\\repos\\ikd\\IKDTematika\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\varva\\source\\repos\\ikd\\IKDTematika\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T16:40:08.302Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AttachmentDownloader.cs",
-              "DocumentMoniker": "C:\\Users\\varva\\source\\repos\\ikd\\IKDTematika\\Helpers\\AttachmentDownloader.cs",
-              "RelativeDocumentMoniker": "Helpers\\AttachmentDownloader.cs",
-              "ToolTip": "C:\\Users\\varva\\source\\repos\\ikd\\IKDTematika\\Helpers\\AttachmentDownloader.cs",
-              "RelativeToolTip": "Helpers\\AttachmentDownloader.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T17:26:00.251Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "IAttachmentDownloader.cs",
               "DocumentMoniker": "C:\\Users\\varva\\source\\repos\\ikd\\IKDTematika\\Helpers\\IAttachmentDownloader.cs",
               "RelativeDocumentMoniker": "Helpers\\IAttachmentDownloader.cs",
@@ -196,7 +203,72 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\varva\\source\\repos\\ikd\\IKDTematika\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "C:\\Users\\varva\\source\\repos\\ikd\\IKDTematika\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-11T19:19:42.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 8,
+              "Title": "README.txt",
+              "DocumentMoniker": "C:\\Users\\varva\\.nuget\\packages\\ironpdf\\2024.10.8\\README.txt",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\.nuget\\packages\\ironpdf\\2024.10.8\\README.txt",
+              "ToolTip": "C:\\Users\\varva\\.nuget\\packages\\ironpdf\\2024.10.8\\README.txt",
+              "RelativeToolTip": "..\\..\\..\\..\\.nuget\\packages\\ironpdf\\2024.10.8\\README.txt",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-10-11T19:18:41.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IPDFParser.cs",
+              "DocumentMoniker": "C:\\Users\\varva\\source\\repos\\ikd\\IKDTematika\\Services\\Parsers\\PDFParsers\\IPDFParser.cs",
+              "RelativeDocumentMoniker": "Services\\Parsers\\PDFParsers\\IPDFParser.cs",
+              "ToolTip": "C:\\Users\\varva\\source\\repos\\ikd\\IKDTematika\\Services\\Parsers\\PDFParsers\\IPDFParser.cs",
+              "RelativeToolTip": "Services\\Parsers\\PDFParsers\\IPDFParser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T17:56:54.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IKDTematika.csproj",
+              "DocumentMoniker": "C:\\Users\\varva\\source\\repos\\ikd\\IKDTematika\\IKDTematika.csproj",
+              "RelativeDocumentMoniker": "IKDTematika.csproj",
+              "ToolTip": "C:\\Users\\varva\\source\\repos\\ikd\\IKDTematika\\IKDTematika.csproj",
+              "RelativeToolTip": "IKDTematika.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-09T16:41:06.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RPDParser.cs",
+              "DocumentMoniker": "C:\\Users\\varva\\source\\repos\\ikd\\IKDTematika\\Services\\Parsers\\PDFParsers\\RPDParser.cs",
+              "RelativeDocumentMoniker": "Services\\Parsers\\PDFParsers\\RPDParser.cs",
+              "ToolTip": "C:\\Users\\varva\\source\\repos\\ikd\\IKDTematika\\Services\\Parsers\\PDFParsers\\RPDParser.cs",
+              "RelativeToolTip": "Services\\Parsers\\PDFParsers\\RPDParser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T17:58:02.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "AnotationParser.cs",
               "DocumentMoniker": "C:\\Users\\varva\\source\\repos\\ikd\\IKDTematika\\Services\\Parsers\\PDFParsers\\AnotationParser.cs",
               "RelativeDocumentMoniker": "Services\\Parsers\\PDFParsers\\AnotationParser.cs",
@@ -213,33 +285,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "SubjectExtractor.cs",
-              "DocumentMoniker": "C:\\Users\\varva\\source\\repos\\ikd\\IKDTematika\\Services\\SubjectExtractor.cs",
-              "RelativeDocumentMoniker": "Services\\SubjectExtractor.cs",
-              "ToolTip": "C:\\Users\\varva\\source\\repos\\ikd\\IKDTematika\\Services\\SubjectExtractor.cs",
-              "RelativeToolTip": "Services\\SubjectExtractor.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T18:41:46.319Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ISubjectExtractor.cs",
-              "DocumentMoniker": "C:\\Users\\varva\\source\\repos\\ikd\\IKDTematika\\Services\\ISubjectExtractor.cs",
-              "RelativeDocumentMoniker": "Services\\ISubjectExtractor.cs",
-              "ToolTip": "C:\\Users\\varva\\source\\repos\\ikd\\IKDTematika\\Services\\ISubjectExtractor.cs",
-              "RelativeToolTip": "Services\\ISubjectExtractor.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T18:42:51.917Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "ITextAnalyser.cs",
               "DocumentMoniker": "C:\\Users\\varva\\source\\repos\\ikd\\IKDTematika\\Services\\Analyser\\ITextAnalyser.cs",
               "RelativeDocumentMoniker": "Services\\Analyser\\ITextAnalyser.cs",
@@ -252,7 +298,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "TextAnalyser.cs",
               "DocumentMoniker": "C:\\Users\\varva\\source\\repos\\ikd\\IKDTematika\\Services\\Analyser\\TextAnalyser.cs",
               "RelativeDocumentMoniker": "Services\\Analyser\\TextAnalyser.cs",
@@ -265,7 +311,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "ResponceModel.cs",
               "DocumentMoniker": "C:\\Users\\varva\\source\\repos\\ikd\\IKDTematika\\Models\\ApiModels\\ResponceModel.cs",
               "RelativeDocumentMoniker": "Models\\ApiModels\\ResponceModel.cs",
@@ -278,7 +324,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 18,
               "Title": "Attachment.cs",
               "DocumentMoniker": "C:\\Users\\varva\\source\\repos\\ikd\\IKDTematika\\Models\\Attachment.cs",
               "RelativeDocumentMoniker": "Models\\Attachment.cs",
@@ -291,20 +337,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "IKDTematika.csproj",
-              "DocumentMoniker": "C:\\Users\\varva\\source\\repos\\ikd\\IKDTematika\\IKDTematika.csproj",
-              "RelativeDocumentMoniker": "IKDTematika.csproj",
-              "ToolTip": "C:\\Users\\varva\\source\\repos\\ikd\\IKDTematika\\IKDTematika.csproj",
-              "RelativeToolTip": "IKDTematika.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-09T16:41:06.111Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 17,
               "Title": "IKDTematikaController.cs",
               "DocumentMoniker": "C:\\Users\\varva\\source\\repos\\ikd\\IKDTematika\\Controllers\\IKDTematikaController.cs",
               "RelativeDocumentMoniker": "Controllers\\IKDTematikaController.cs",
@@ -317,7 +350,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "PDFText.cs",
               "DocumentMoniker": "C:\\Users\\varva\\source\\repos\\ikd\\IKDTematika\\Models\\PDFText.cs",
               "RelativeDocumentMoniker": "Models\\PDFText.cs",
@@ -330,7 +363,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\varva\\source\\repos\\ikd\\IKDTematika\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -343,7 +376,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 20,
               "Title": "IKDTematika.http",
               "DocumentMoniker": "C:\\Users\\varva\\source\\repos\\ikd\\IKDTematika\\IKDTematika.http",
               "RelativeDocumentMoniker": "IKDTematika.http",
@@ -356,7 +389,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 21,
               "Title": "RequestModel.cs",
               "DocumentMoniker": "C:\\Users\\varva\\source\\repos\\ikd\\IKDTematika\\Models\\ApiModels\\RequestModel.cs",
               "RelativeDocumentMoniker": "Models\\ApiModels\\RequestModel.cs",
@@ -369,13 +402,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 22,
               "Title": "Microsoft.PackageDependencyResolution.targets",
               "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.300\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
               "ToolTip": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
               "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.300\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
-              "ViewState": "AQIAAB0BAAAAAAAAAAAQwAkBAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
               "WhenOpened": "2024-10-09T16:40:46.041Z"
             }

@@ -50,6 +50,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Catalyst": {
+              "target": "Package",
+              "version": "[1.0.51118, )"
+            },
+            "Catalyst.Models.Russian": {
+              "target": "Package",
+              "version": "[1.0.30952, )"
+            },
             "IronPdf": {
               "target": "Package",
               "version": "[2024.10.8, )"

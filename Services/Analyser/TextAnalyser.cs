@@ -1,8 +1,10 @@
-﻿namespace IKDTematika.Services.Analyser
+﻿using IKDTematika.Models.ApiModels;
+
+namespace IKDTematika.Services.Analyser
 {
     public class TextAnalyser : ITextAnalyser
     {
-        public void AnalyzeText()
+        public ResponceModel AnalyzeText()
         {
             throw new NotImplementedException();
         }
