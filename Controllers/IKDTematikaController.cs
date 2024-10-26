@@ -1,5 +1,6 @@
 using IKDTematika.Models.ApiModels;
 using Microsoft.AspNetCore.Mvc;
+using parser_template.Parser.Loader;
 
 namespace IKDTematika.Controllers;
 
@@ -9,7 +10,7 @@ public class IKDTematikaController : ControllerBase
 {
     public IKDTematikaController()
     {
-
+      
     }
 
     [HttpPost("details")]
@@ -17,4 +18,5 @@ public class IKDTematikaController : ControllerBase
     {
         return null;
     }
+  
 }

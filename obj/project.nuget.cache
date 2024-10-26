@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "cSuuZkcI0IY=",
+  "dgSpecHash": "Z79dUwCiQnI=",
   "success": true,
   "projectFilePath": "C:\\Users\\varva\\source\\repos\\ikd\\IKDTematika\\IKDTematika.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\varva\\.nuget\\packages\\anglesharp\\1.1.2\\anglesharp.1.1.2.nupkg.sha512",
     "C:\\Users\\varva\\.nuget\\packages\\bitmiracle.libtiff.net\\2.4.649\\bitmiracle.libtiff.net.2.4.649.nupkg.sha512",
     "C:\\Users\\varva\\.nuget\\packages\\catalyst\\1.0.51118\\catalyst.1.0.51118.nupkg.sha512",
     "C:\\Users\\varva\\.nuget\\packages\\catalyst.models.russian\\1.0.30952\\catalyst.models.russian.1.0.30952.nupkg.sha512",
@@ -95,6 +96,7 @@
     "C:\\Users\\varva\\.nuget\\packages\\system.security.cryptography.protecteddata\\6.0.0\\system.security.cryptography.protecteddata.6.0.0.nupkg.sha512",
     "C:\\Users\\varva\\.nuget\\packages\\system.security.permissions\\6.0.0\\system.security.permissions.6.0.0.nupkg.sha512",
     "C:\\Users\\varva\\.nuget\\packages\\system.text.encoding\\4.3.0\\system.text.encoding.4.3.0.nupkg.sha512",
+    "C:\\Users\\varva\\.nuget\\packages\\system.text.encoding.codepages\\8.0.0\\system.text.encoding.codepages.8.0.0.nupkg.sha512",
     "C:\\Users\\varva\\.nuget\\packages\\system.text.encodings.web\\8.0.0\\system.text.encodings.web.8.0.0.nupkg.sha512",
     "C:\\Users\\varva\\.nuget\\packages\\system.text.json\\8.0.4\\system.text.json.8.0.4.nupkg.sha512",
     "C:\\Users\\varva\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512",

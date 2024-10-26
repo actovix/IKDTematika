@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IKDTematika")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8f58f358b75d1f3a975668a9c6cff84c55cea486")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cda0885f2e43cd09acd3976fc7ece047865d3666")]
 [assembly: System.Reflection.AssemblyProductAttribute("IKDTematika")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IKDTematika")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
