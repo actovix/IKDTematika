@@ -1,20 +1,29 @@
 using IKDTematika.Models.ApiModels;
+using IKDTematika.ThemeSelector;
 using Microsoft.AspNetCore.Mvc;
 
 namespace IKDTematika.Controllers;
 
-[Route("api")]
+[Route("api/ikdtematika")]
 [ApiController]
 public class IKDTematikaController : ControllerBase
 {
-    public IKDTematikaController()
+    private readonly ISelector _themeSelector;
+    public IKDTematikaController(ISelector themeSelector)
     {
-
+        _themeSelector = themeSelector;
     }
 
-    [HttpPost("details")]
-    public async Task<ResponceModel> GetThemes([FromBody] RequestModel requestModel)
+    [HttpPost("themes")]
+    public async Task<IActionResult> GetThemes([FromBody] RequestModel requestModel)
     {
-        return null;
+        if (!ModelState.IsValid)
+        {
+            return BadRequest(ModelState);
+        }
+
+        var res = await _themeSelector.GetTheme(requestModel); 
+
+        return Ok(res);
     }
 }

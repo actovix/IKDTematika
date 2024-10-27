@@ -8,5 +8,5 @@ public class ResponceModel
 public class DisciplineSubjects
 {
     public string Name { get; set; } = "";
-    public List<string> Themes { get; set; } = new();
+    public string[] Themes { get; set; } = [];
 }
