@@ -65,16 +65,20 @@ namespace IKDTematika.Filler
             {
                 if (!sbj.Any(x => x.Contains(item)))
                 {
+                    bool f = false;
                     foreach (var s in sbj)
                     {
                         if (Fuzz.Ratio(item, s) > 70)
                         {
+                            f = true;
                             themes[themes.ToList().IndexOf(item)] = s;
                             break;
                         }
                     }
-
-                    themes[themes.ToList().IndexOf(item)] = sbj.ElementAt(rnd.Next(0, themes.Length));
+                    if (!f)
+                    {
+                        themes[themes.ToList().IndexOf(item)] = sbj.ElementAt(rnd.Next(0, themes.Length));
+                    }
                 }
             }
 
