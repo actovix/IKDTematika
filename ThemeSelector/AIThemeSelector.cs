@@ -47,7 +47,7 @@ public class AIThemeSelector
                 Content = $"Выбери из этого списка пять тематик, подходящих к дисциплине \"{theme}\".\n" + themes
             };
             var response = await client.Completions.GetCompletionAsync(request);
-            res = response.Choices.First().Message.Content.Split('\n');
+            res = response.Choices.First().Message.Content.Split('\n', StringSplitOptions.RemoveEmptyEntries);
         }
         catch (System.Exception)
         {
@@ -62,6 +62,8 @@ public class AIThemeSelector
         {
             return res.Take(5).ToArray();
         }
+
+
 
         return res;
     }

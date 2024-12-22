@@ -1,4 +1,5 @@
 using IKDTematika;
+using IKDTematika.Filler;
 using IKDTematika.ThemeSelector;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -11,6 +12,7 @@ builder.Services.AddSwaggerGen();
 builder.Services.AddSingleton(ld);
 builder.Services.AddSingleton(ai);
 builder.Services.AddScoped<ISelector, SubjThemeSelector>();
+builder.Services.AddScoped<IFiller, ThemeFiller>();
 
 var app = builder.Build();
 
